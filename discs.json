@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Once Upon a Time",
+    "author": "Undertale",
+    "duration": 105,
+    "disc-namespace": "music_disc.onceuponatimeundertalezero",
+    "model-data": 1,
+    "creeper-drop": false,
+    "lores": [],
+    "loot-tables": [],
+    "fragment-loot-tables": []
+  },
+  {
+    "title": "Megalovania",
+    "author": "Undertale",
+    "duration": 314,
+    "disc-namespace": "music_disc.megalovaniaundertaleone",
+    "model-data": 2,
+    "creeper-drop": false,
+    "lores": [],
+    "loot-tables": [],
+    "fragment-loot-tables": []
+  },
+  {
+    "title": "Before the Story",
+    "author": "Deltarune",
+    "duration": 89,
+    "disc-namespace": "music_disc.beforethestorydeltarunetwo",
+    "model-data": 3,
+    "creeper-drop": false,
+    "lores": [],
+    "loot-tables": [],
+    "fragment-loot-tables": []
+  },
+  {
+    "title": "Breezy",
+    "author": "Final Fantasy 8",
+    "duration": 164,
+    "disc-namespace": "music_disc.breezyfinalfantasyeightthree",
+    "model-data": 4,
+    "creeper-drop": false,
+    "lores": [],
+    "loot-tables": [],
+    "fragment-loot-tables": []
+  }
+]
